@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-eedomus",
+  "name": "homebridge-eedomus-hassio",
   "version": "0.0.2",
   "description": "eedomus plugin for homebridge",
   "main": "index.js",
