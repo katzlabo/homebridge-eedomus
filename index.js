@@ -2,7 +2,7 @@ var Service, Characteristic;
 var request = require("request");
 var fs, credentials;
 
-eedomus_config = '/home/pi/.homebridge/config.json'; //a modifier
+eedomus_config = '/config/homebridge/config.json'; //a modifier
 fs = require('fs');
 
 var configuration = JSON.parse(fs.readFileSync(eedomus_config));
